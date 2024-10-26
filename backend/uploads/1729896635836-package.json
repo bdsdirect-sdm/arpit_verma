@@ -1,0 +1,36 @@
+{
+  "name": "arpitv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tanstack/react-query": "^5.59.9",
+    "@types/jest": "^29.5.13",
+    "@types/nodemon": "^1.19.6",
+    "@types/react": "^18.3.9",
+    "@types/react-dom": "^18.3.0",
+    "axios": "^1.7.7",
+    "express": "^4.21.0",
+    "for": "^0.0.1-dev.0",
+    "formik": "^2.4.6",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.11.3",
+    "react-router-dom": "^6.26.2",
+    "sequelize": "^6.37.3",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/multer": "^1.4.12",
+    "@types/node": "^22.7.3",
+    "@types/sequelize": "^4.28.20",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
